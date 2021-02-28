@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Ecosia Count Trees",
+  "version": "1.0",
+
+  "description": "Counts how many trees you have planted while using Ecosia.",
+
+  "icons": {
+    "48": "icons/ecosia-tree.svg",
+    "96": "icons/ecosia-tree.svg"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.ecosia.org/*"],
+      "js": ["ecosia_trees.js"]
+    }
+  ]
+}
