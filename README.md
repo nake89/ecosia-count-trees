@@ -1,6 +1,6 @@
 # Ecosia Count Trees
 
-A Firefox extension. Displays how many trees your searches have planted (it's an [estimate](https://ecosia.zendesk.com/hc/en-us/articles/201657341-How-does-the-personal-counter-work-)). How many searchers until next tree is planted?
+A Firefox extension. Displays how many trees your searches have planted (it's an [estimate](https://ecosia.zendesk.com/hc/en-us/articles/201657341-How-does-the-personal-counter-work-)) and how many searchers until next tree is planted?
 
 ## What Ecosia looks like after installation
 
